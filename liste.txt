@@ -1,0 +1,4 @@
+1. Özellik 1: Hızlı performans
+2. Özellik 2: Kullanıcı dostu arayüz
+3. Özellik 3: Güçlü güvenlik
+4. Özellik 4: Mobil uyumlu
